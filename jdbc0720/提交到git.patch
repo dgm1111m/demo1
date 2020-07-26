@@ -1,0 +1,15 @@
+Index: jdbc0720/src/com/guang/jdbc_test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- jdbc0720/src/com/guang/jdbc_test.java	(revision 8dee6df0cc5a3da9f8269092e8432ffd3c206d09)
++++ jdbc0720/src/com/guang/jdbc_test.java	(revision 35bc15d89ed60aecabbea8f13f82eba7db3d9ac0)
+@@ -19,6 +19,7 @@
+         } else {
+             System.out.println("密码错误");
+         }
++        System.out.println("11");
+ 
+ 
+     }

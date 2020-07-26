@@ -19,7 +19,6 @@ public class jdbc_test {
         } else {
             System.out.println("密码错误");
         }
-        System.out.println("11");
 
 
     }
